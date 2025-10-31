@@ -23,6 +23,16 @@ This chess engine uses **game tree search** to find the best move in any positio
 
 ---
 
+## 🧩 Architecture
+
+The following diagram illustrates the high-level architecture of the Chess Engine, including the relationships between the core components like the Engine, Evaluator, Move Generator, and Game Management modules.
+
+<p align="center">
+  <img src="Architecture.png" alt="Chess Engine Architecture" width="700"/>
+</p>
+
+---
+
 ## Minimax Algorithm
 
 ### Concept
